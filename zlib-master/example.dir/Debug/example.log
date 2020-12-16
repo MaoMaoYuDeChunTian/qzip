@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/MyGit/compress/zlib-master/CMakeLists.txt
+  example.c
+  example.vcxproj -> E:\MyGit\compress\zlib-master\Debug\example.exe
+  example.vcxproj -> E:/MyGit/compress/zlib-master/Debug/example.pdb (Full PDB)

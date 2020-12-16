@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/MyGit/compress/zlib-master/CMakeLists.txt
+  minigzip.c
+E:\MyGit\compress\zlib-master\test\minigzip.c(503): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  minigzip.vcxproj -> E:\MyGit\compress\zlib-master\Debug\minigzip.exe
+  minigzip.vcxproj -> E:/MyGit/compress/zlib-master/Debug/minigzip.pdb (Full PDB)

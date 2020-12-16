@@ -1,0 +1,8 @@
+E:/MyGit/compress/zlib-master/CMakeFiles/zlib.dir
+E:/MyGit/compress/zlib-master/CMakeFiles/zlibstatic.dir
+E:/MyGit/compress/zlib-master/CMakeFiles/example.dir
+E:/MyGit/compress/zlib-master/CMakeFiles/minigzip.dir
+E:/MyGit/compress/zlib-master/CMakeFiles/INSTALL.dir
+E:/MyGit/compress/zlib-master/CMakeFiles/RUN_TESTS.dir
+E:/MyGit/compress/zlib-master/CMakeFiles/ALL_BUILD.dir
+E:/MyGit/compress/zlib-master/CMakeFiles/ZERO_CHECK.dir

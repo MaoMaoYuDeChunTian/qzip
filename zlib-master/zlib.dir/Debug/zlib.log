@@ -1,0 +1,26 @@
+﻿  Building Custom Rule E:/MyGit/compress/zlib-master/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+E:\MyGit\compress\zlib-master\gzread.c(319): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\MyGit\compress\zlib-master\gzread.c(400): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\MyGit\compress\zlib-master\gzread.c(472): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  gzwrite.c
+E:\MyGit\compress\zlib-master\gzwrite.c(212): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\MyGit\compress\zlib-master\gzwrite.c(232): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\MyGit\compress\zlib-master\gzwrite.c(371): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+  Generating Code...
+     Creating library E:/MyGit/compress/zlib-master/Debug/zlibd.lib and object E:/MyGit/compress/zlib-master/Debug/zlibd.exp
+  zlib.vcxproj -> E:\MyGit\compress\zlib-master\Debug\zlibd.dll
+  zlib.vcxproj -> E:/MyGit/compress/zlib-master/Debug/zlibd.pdb (Full PDB)

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\MyGit\compress\source_download\build\source_download\SourceDownload_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\MyGit\compress\source_download\source_download\downloadserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\MyGit\compress\source_download\source_download\downloadwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\MyGit\compress\source_download\source_download\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\MyGit\compress\source_download\source_download\downloadserver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyGit\compress\source_download\source_download\downloadwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\MyGit\compress\source_download\source_download\downloadwidget.ui">
+      <Filter>Ui</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\MyGit\compress\source_download\source_download\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D1850E07-0423-374E-8F99-37C8B75B20B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D04C8CC1-F8EC-3FD5-9610-633B2410CA06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ui">
+      <UniqueIdentifier>{01C94BDB-C982-380F-9923-A9FE0A08AC6A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
