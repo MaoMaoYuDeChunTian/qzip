@@ -16,3 +16,5 @@
 *.lo
 *.o
 *.zip
+source_download/bin/
+source_download/build/

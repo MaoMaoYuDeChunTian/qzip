@@ -1,3 +1,0 @@
-E:/MyGit/compress/source_download/build/CMakeFiles/ALL_BUILD.dir
-E:/MyGit/compress/source_download/build/CMakeFiles/ZERO_CHECK.dir
-E:/MyGit/compress/source_download/build/source_download/CMakeFiles/SourceDownload.dir
